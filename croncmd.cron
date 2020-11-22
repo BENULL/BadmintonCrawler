@@ -1,0 +1,3 @@
+SHELL = /bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+*/5 13-23 * * * cd /Users/benull/Documents/PythonProject/Crawler/BadmintonCrawler/ && python3 BadmintonCrawler.py >> log.txt 2>&1
